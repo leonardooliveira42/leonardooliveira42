@@ -41,11 +41,4 @@ Quando não estou codando, você provavelmente vai me encontrar:
 
 ---
 
-## 🌐 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)  
-
----
-
 💬 *“Código é como poesia: deve ser simples, elegante e cheio de propósito.”*
