@@ -1,17 +1,12 @@
-# 👋 Olá, mundo! Eu sou o Leonardo Silva de Oliveira  
+# 👨‍💻 Prazer, eu sou o Leonardo Silva de Oliveira  
 (… mas pode me chamar de **Leo** 😉)
 
-✨ Engenheiro de Software | 🖥️ Fullstack Developer | 🎨 Amante de código limpo  
+Sou **Engenheiro de Software Fullstack**, tenho **29 anos** e adoro criar soluções que unem **criatividade e performance**.  
+Trabalho diariamente construindo aplicações modernas, escaláveis e cheias de propósito, sempre com foco em entregar valor de verdade.  
 
----
-
-## 🚀 Sobre mim  
-Tenho **29 anos** e trabalho como **Engenheiro de Software Fullstack**.  
-Sou apaixonado por transformar ideias em código, criando soluções escaláveis, elegantes e intuitivas.  
-
-Atualmente, atuo no desenvolvimento de **novas features e projetos** em minha empresa, trabalhando em toda a stack — do front até o banco de dados.  
-
-💡 Minha missão: **escrever código que resolva problemas reais, de forma criativa e eficiente.**  
+✨ Especialista em transformar ideias em código.  
+🖥️ Experiência sólida em frontend, backend e banco de dados.  
+🎨 Apaixonado por design de interfaces elegantes e código limpo.  
 
 ---
 
@@ -32,8 +27,8 @@ Atualmente, atuo no desenvolvimento de **novas features e projetos** em minha em
 
 ## 📊 Estatísticas no GitHub  
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)  
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=leonardooliveira42&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardooliveira42&layout=compact&theme=radical)  
 
 ---
 
